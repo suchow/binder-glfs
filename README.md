@@ -1,3 +1,3 @@
 # Binder and GLFS?
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/suchow/binder-glfs)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/suchow/binder-glfs/master)
